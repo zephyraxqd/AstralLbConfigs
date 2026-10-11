@@ -497,7 +497,7 @@
         "Keybind": 0,
         "Toggle": 0,
         "Visible": true,
-        "enabled": false
+        "enabled": true
     },
     "AutoMove": {
         "AutoDisable": false,

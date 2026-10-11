@@ -480,7 +480,7 @@
         "AutoOn": false,
         "Keybind": 96,
         "Toggle": 0,
-        "Visible": false,
+        "Visible": true,
         "enabled": true
     },
     "AutoMove": {
